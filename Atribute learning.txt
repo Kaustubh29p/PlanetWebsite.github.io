@@ -1,0 +1,14 @@
+<html>
+<header>
+Kaustubh's Homework page
+</header>
+<body>
+My homework html website today you wil learn about planets
+</body>
+<h1 align="center"> There are 9 planets in the solor system. </h1>
+<h2> The names are murcury venus earth mars jupitar saturn uranas neptune, and pulto. </h2>
+<h3> The coldest one is pulto because there is no heat there. </h3>
+<h4> The hotest one is venus. </h4>
+<h5> The biggest planet is Jupitar. </h5>
+<h6> The only one with life so far is Earth.</h6>
+</html>
